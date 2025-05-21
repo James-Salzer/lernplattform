@@ -1,0 +1,271 @@
+[2025-05-21 11:46:10] [PHP Error] (2) Undefined array key "GET" in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 292
+[2025-05-21 13:27:48] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:28:02] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:28:04] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:28:46] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:28:51] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:29:50] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:30:09] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:35] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:39] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:51] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:52] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:53] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:54] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:55] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:57] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:58] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:53:59] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 13:57:18] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:02:41] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:02:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:02:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:02:41] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:02:50] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:02:50] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:02:50] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:02:52] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:02:52] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:02:52] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:02:53] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:03:12] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:03:12] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:03:12] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:03] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:04:03] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:04:03] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:03] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:04:06] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:04:06] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:04:06] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:06] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:04:08] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:04:08] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:04:08] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:08] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:04:08] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:04:08] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:10] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:04:10] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:04:10] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:04:10] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:06:09] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:06:09] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:06:09] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:06:10] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:06:13] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:06:13] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:06:13] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:08:59] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:08:59] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:08:59] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:01] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:01] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:01] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:04] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:04] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:04] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:04] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:09:10] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:10] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:10] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:14] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:14] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:14] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:14] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:09:23] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:23] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:23] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:40] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:09:40] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:09:40] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:09:40] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:12:55] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:12:55] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:12:55] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:12:55] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:15:13] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:15:13] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:15:13] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:15:15] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:15:15] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:15:15] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:15:15] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:15:17] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:15:17] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:15:17] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:15:18] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:15:18] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:15:18] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:15:18] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:15:19] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:15:19] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:15:19] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:15:19] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:15:19] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:16:28] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:28] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:28] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:29] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:29] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:29] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:30] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:16:41] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:41] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:16:41] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:41] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:41] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:16:42] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:42] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:42] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:42] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:16:43] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:16:43] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:16:43] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:16:43] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:17:02] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:17:02] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:17:02] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:17:03] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:17:03] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:17:03] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:17:04] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:18:14] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:18:14] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:18:14] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:18:15] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:18:19] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:18:19] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:18:19] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:18:19] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:18:24] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:18:24] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:18:24] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:18:24] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:20] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:20] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:20] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:20] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:23] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:23] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:23] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:23] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:24] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:24] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:24] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:24] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:25] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:25] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:25] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:25] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:25] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:25] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:25] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:25] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:19:30] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:19:30] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:19:30] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:19:30] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:20:15] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:20:15] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:20:15] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:20:15] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:20:17] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:20:17] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:20:17] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:20:17] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:20:18] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:20:18] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 24
+[2025-05-21 14:20:18] [PHP Error] (2) Undefined variable $loginController in C:\xampp\htdocs\LernPlattform\lernplattform\index.php on line 25
+[2025-05-21 14:20:18] [Exception] stripos(): Argument #1 ($haystack) must be of type string, array given in C:\xampp\htdocs\LernPlattform\lernplattform\vendor\bramus\router\src\Bramus\Router\Router.php on line 462
+[2025-05-21 14:21:28] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:21:31] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:23:31] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:23:39] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:28:40] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:28:40] [Exception] Class "SessionManager" not found in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 15
+[2025-05-21 14:28:45] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:28:45] [Exception] Class "SessionManager" not found in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 15
+[2025-05-21 14:32:17] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:32:28] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:33:23] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:33:24] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:33:25] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:33:30] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:33:30] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:47:49] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:47:55] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:47:55] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:22] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:26] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:26] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:49] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:56] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:51:58] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:33] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:38] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:40] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:41] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:48] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 14:52:48] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:00:27] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:00:32] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:00:36] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:01:59] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:02:01] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:02:03] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:02:04] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:02:10] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:14] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:14] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:22] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:22] [PHP Error] (2) Undefined array key "role" in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 46
+[2025-05-21 15:29:22] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:57] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:29:57] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:05] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:05] [PHP Error] (2) Undefined array key "role" in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 46
+[2025-05-21 15:30:05] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:11] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:11] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:20] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:30:20] [PHP Error] (2) Undefined array key "role" in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 46
+[2025-05-21 15:30:20] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:31:45] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:31:45] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:31:49] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:31:49] [PHP Error] (2) Undefined array key "role" in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\LoginController.php on line 46
+[2025-05-21 15:31:49] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:32:27] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:29] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:31] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:33] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:33] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:37] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:36:37] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:48] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:51] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:51] [PHP Error] (2) include(C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:40:51] [PHP Error] (2) include(): Failed opening 'C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:40:53] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:55] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:57] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:59] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:40:59] [PHP Error] (2) include(C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:40:59] [PHP Error] (2) include(): Failed opening 'C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:45:06] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:07] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:07] [PHP Error] (2) include(C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:45:07] [PHP Error] (2) include(): Failed opening 'C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:45:14] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:17] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:20] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:22] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:45:22] [PHP Error] (2) include(C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:45:22] [PHP Error] (2) include(): Failed opening 'C:\xampp\htdocs\LernPlattform\lernplattform/Views/admin/users_list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LernPlattform\lernplattform\Controllers\AdminController.php on line 36
+[2025-05-21 15:46:21] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:46:22] [DEBUG] Datenbankverbindung erfolgreich hergestellt.
+[2025-05-21 15:47:29] [DEBUG] Datenbankverbindung erfolgreich hergestellt.

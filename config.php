@@ -39,7 +39,6 @@ function debug_log($message) {
 set_error_handler(function($errno, $errstr, $errfile, $errline) {
     $log_message = "[PHP Error] ($errno) $errstr in $errfile on line $errline";
     log_message($log_message);
-    // Wir unterdrücken die Standard-PHP-Fehlerbehandlung, da wir loggen.
     return true;
 });
 
@@ -47,5 +46,7 @@ set_exception_handler(function ($exception) {
     $log_message = "[Exception] " . $exception->getMessage() . " in " . $exception->getFile() . " on line " . $exception->getLine();
     log_message($log_message);
 });
+
+require_once ROOT_PATH . 'Helpers.php'; // Hier neu hinzugefügt
 
 ?>
