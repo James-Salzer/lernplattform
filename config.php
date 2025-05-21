@@ -47,4 +47,6 @@ set_exception_handler(function ($exception) {
     log_message($log_message);
 });
 
+require_once ROOT_PATH . 'Helpers.php'; // Hier neu hinzugefügt
+
 ?>
